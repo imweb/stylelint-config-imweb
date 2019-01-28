@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-config-imweb",
+  "version": "1.0.0",
+  "description": "IMWeb CSS 规范",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imweb/stylelint-config-imweb.git"
+  },
+  "keywords": [
+    "css",
+    "stylelint"
+  ],
+  "author": "marvin1023",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imweb/stylelint-config-imweb/issues"
+  },
+  "homepage": "https://github.com/imweb/stylelint-config-imweb#readme"
+}
